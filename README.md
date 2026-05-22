@@ -38,3 +38,4 @@ We welcome contributions to this repository! If you would like to add, modify, o
 6. Submit a pull request to the main repository.
 
 We appreciate your contributions and will review and merge them as appropriate. :tada:
+<!-- Contributed by Vivek -->
